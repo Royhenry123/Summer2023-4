@@ -45,7 +45,7 @@ def main():
     # Testing branching and stuff
     for char in 'Roy':
         print(char)
-        
+
     balance = deposit()
     lines = get_number_lines()
     print(lines, balance)
